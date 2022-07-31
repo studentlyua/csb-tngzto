@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://zerothreebot.github.io/csb-tngzto/static/css/main.7079d263.chunk.css",
+    "main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/main.c3283971.chunk.js",
+    "main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/main.c3283971.chunk.js.map",
+    "runtime-main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/runtime-main.4eaa2392.js",
+    "runtime-main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/runtime-main.4eaa2392.js.map",
+    "static/js/2.12578cd4.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/2.12578cd4.chunk.js",
+    "static/js/2.12578cd4.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/2.12578cd4.chunk.js.map",
+    "static/js/3.3cf76fd1.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/3.3cf76fd1.chunk.js",
+    "static/js/3.3cf76fd1.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/3.3cf76fd1.chunk.js.map",
+    "index.html": "https://zerothreebot.github.io/csb-tngzto/index.html",
+    "static/css/main.7079d263.chunk.css.map": "https://zerothreebot.github.io/csb-tngzto/static/css/main.7079d263.chunk.css.map",
+    "static/js/2.12578cd4.chunk.js.LICENSE.txt": "https://zerothreebot.github.io/csb-tngzto/static/js/2.12578cd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eaa2392.js",
+    "static/js/2.12578cd4.chunk.js",
+    "static/css/main.7079d263.chunk.css",
+    "static/js/main.c3283971.chunk.js"
+  ]
+}
