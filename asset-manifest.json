@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://zerothreebot.github.io/csb-tngzto/static/css/main.ff462c58.chunk.css",
-    "main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/main.c2e9c8b3.chunk.js",
-    "main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/main.c2e9c8b3.chunk.js.map",
+    "main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/main.9066a814.chunk.js",
+    "main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/main.9066a814.chunk.js.map",
     "runtime-main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/runtime-main.5b3ac02b.js",
     "runtime-main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/runtime-main.5b3ac02b.js.map",
-    "static/js/2.a25af21f.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/2.a25af21f.chunk.js",
-    "static/js/2.a25af21f.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/2.a25af21f.chunk.js.map",
+    "static/js/2.b704e7a8.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b704e7a8.chunk.js",
+    "static/js/2.b704e7a8.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b704e7a8.chunk.js.map",
     "static/js/3.5b6b0dbc.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/3.5b6b0dbc.chunk.js",
     "static/js/3.5b6b0dbc.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/3.5b6b0dbc.chunk.js.map",
     "index.html": "https://zerothreebot.github.io/csb-tngzto/index.html",
     "static/css/main.ff462c58.chunk.css.map": "https://zerothreebot.github.io/csb-tngzto/static/css/main.ff462c58.chunk.css.map",
-    "static/js/2.a25af21f.chunk.js.LICENSE.txt": "https://zerothreebot.github.io/csb-tngzto/static/js/2.a25af21f.chunk.js.LICENSE.txt",
+    "static/js/2.b704e7a8.chunk.js.LICENSE.txt": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b704e7a8.chunk.js.LICENSE.txt",
     "static/media/heart.519538c2.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/heart.519538c2.svg",
     "static/media/home.cc9786b6.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/home.cc9786b6.svg",
     "static/media/instagram.f4c6c5ff.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/instagram.f4c6c5ff.svg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5b3ac02b.js",
-    "static/js/2.a25af21f.chunk.js",
+    "static/js/2.b704e7a8.chunk.js",
     "static/css/main.ff462c58.chunk.css",
-    "static/js/main.c2e9c8b3.chunk.js"
+    "static/js/main.9066a814.chunk.js"
   ]
 }
