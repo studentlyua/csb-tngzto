@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-tngzto/static/css/main.61a4e8c7.chunk.css",
-    "main.js": "https://.github.io/csb-tngzto/static/js/main.8326de85.chunk.js",
-    "main.js.map": "https://.github.io/csb-tngzto/static/js/main.8326de85.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-tngzto/static/js/runtime-main.b1023a23.js",
-    "runtime-main.js.map": "https://.github.io/csb-tngzto/static/js/runtime-main.b1023a23.js.map",
-    "static/js/2.a1f961b5.chunk.js": "https://.github.io/csb-tngzto/static/js/2.a1f961b5.chunk.js",
-    "static/js/2.a1f961b5.chunk.js.map": "https://.github.io/csb-tngzto/static/js/2.a1f961b5.chunk.js.map",
-    "static/js/3.5b6b0dbc.chunk.js": "https://.github.io/csb-tngzto/static/js/3.5b6b0dbc.chunk.js",
-    "static/js/3.5b6b0dbc.chunk.js.map": "https://.github.io/csb-tngzto/static/js/3.5b6b0dbc.chunk.js.map",
-    "index.html": "https://.github.io/csb-tngzto/index.html",
-    "static/css/main.61a4e8c7.chunk.css.map": "https://.github.io/csb-tngzto/static/css/main.61a4e8c7.chunk.css.map",
-    "static/js/2.a1f961b5.chunk.js.LICENSE.txt": "https://.github.io/csb-tngzto/static/js/2.a1f961b5.chunk.js.LICENSE.txt",
-    "static/media/heart.519538c2.svg": "https://.github.io/csb-tngzto/static/media/heart.519538c2.svg",
-    "static/media/home.cc9786b6.svg": "https://.github.io/csb-tngzto/static/media/home.cc9786b6.svg",
-    "static/media/instagram.f4c6c5ff.svg": "https://.github.io/csb-tngzto/static/media/instagram.f4c6c5ff.svg",
-    "static/media/picture.13d76e38.svg": "https://.github.io/csb-tngzto/static/media/picture.13d76e38.svg"
+    "main.css": "https://zerothreebot.github.io/csb-tngzto/static/css/main.61a4e8c7.chunk.css",
+    "main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/main.282de8b1.chunk.js",
+    "main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/main.282de8b1.chunk.js.map",
+    "runtime-main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/runtime-main.5b3ac02b.js",
+    "runtime-main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/runtime-main.5b3ac02b.js.map",
+    "static/js/2.b43c0bd2.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b43c0bd2.chunk.js",
+    "static/js/2.b43c0bd2.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b43c0bd2.chunk.js.map",
+    "static/js/3.5b6b0dbc.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/3.5b6b0dbc.chunk.js",
+    "static/js/3.5b6b0dbc.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/3.5b6b0dbc.chunk.js.map",
+    "index.html": "https://zerothreebot.github.io/csb-tngzto/index.html",
+    "static/css/main.61a4e8c7.chunk.css.map": "https://zerothreebot.github.io/csb-tngzto/static/css/main.61a4e8c7.chunk.css.map",
+    "static/js/2.b43c0bd2.chunk.js.LICENSE.txt": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b43c0bd2.chunk.js.LICENSE.txt",
+    "static/media/heart.519538c2.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/heart.519538c2.svg",
+    "static/media/home.cc9786b6.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/home.cc9786b6.svg",
+    "static/media/instagram.f4c6c5ff.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/instagram.f4c6c5ff.svg",
+    "static/media/picture.13d76e38.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/picture.13d76e38.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1023a23.js",
-    "static/js/2.a1f961b5.chunk.js",
+    "static/js/runtime-main.5b3ac02b.js",
+    "static/js/2.b43c0bd2.chunk.js",
     "static/css/main.61a4e8c7.chunk.css",
-    "static/js/main.8326de85.chunk.js"
+    "static/js/main.282de8b1.chunk.js"
   ]
 }
