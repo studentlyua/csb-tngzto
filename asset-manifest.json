@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "https://zerothreebot.github.io/csb-tngzto/static/css/main.ff462c58.chunk.css",
-    "main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/main.341af89e.chunk.js",
-    "main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/main.341af89e.chunk.js.map",
+    "main.css": "https://zerothreebot.github.io/csb-tngzto/static/css/main.8852f34e.chunk.css",
+    "main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/main.5d5e3616.chunk.js",
+    "main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/main.5d5e3616.chunk.js.map",
     "runtime-main.js": "https://zerothreebot.github.io/csb-tngzto/static/js/runtime-main.5b3ac02b.js",
     "runtime-main.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/runtime-main.5b3ac02b.js.map",
-    "static/js/2.042ec8c5.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/2.042ec8c5.chunk.js",
-    "static/js/2.042ec8c5.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/2.042ec8c5.chunk.js.map",
+    "static/js/2.b3f38a1d.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b3f38a1d.chunk.js",
+    "static/js/2.b3f38a1d.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b3f38a1d.chunk.js.map",
     "static/js/3.5b6b0dbc.chunk.js": "https://zerothreebot.github.io/csb-tngzto/static/js/3.5b6b0dbc.chunk.js",
     "static/js/3.5b6b0dbc.chunk.js.map": "https://zerothreebot.github.io/csb-tngzto/static/js/3.5b6b0dbc.chunk.js.map",
     "index.html": "https://zerothreebot.github.io/csb-tngzto/index.html",
-    "static/css/main.ff462c58.chunk.css.map": "https://zerothreebot.github.io/csb-tngzto/static/css/main.ff462c58.chunk.css.map",
-    "static/js/2.042ec8c5.chunk.js.LICENSE.txt": "https://zerothreebot.github.io/csb-tngzto/static/js/2.042ec8c5.chunk.js.LICENSE.txt",
+    "static/css/main.8852f34e.chunk.css.map": "https://zerothreebot.github.io/csb-tngzto/static/css/main.8852f34e.chunk.css.map",
+    "static/js/2.b3f38a1d.chunk.js.LICENSE.txt": "https://zerothreebot.github.io/csb-tngzto/static/js/2.b3f38a1d.chunk.js.LICENSE.txt",
     "static/media/heart.519538c2.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/heart.519538c2.svg",
     "static/media/home.cc9786b6.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/home.cc9786b6.svg",
     "static/media/instagram.f4c6c5ff.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/instagram.f4c6c5ff.svg",
+    "static/media/styles.css": "https://zerothreebot.github.io/csb-tngzto/static/media/montserrat-v25-latin-regular.acb6629f.woff2",
     "static/media/picture.13d76e38.svg": "https://zerothreebot.github.io/csb-tngzto/static/media/picture.13d76e38.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5b3ac02b.js",
-    "static/js/2.042ec8c5.chunk.js",
-    "static/css/main.ff462c58.chunk.css",
-    "static/js/main.341af89e.chunk.js"
+    "static/js/2.b3f38a1d.chunk.js",
+    "static/css/main.8852f34e.chunk.css",
+    "static/js/main.5d5e3616.chunk.js"
   ]
 }
